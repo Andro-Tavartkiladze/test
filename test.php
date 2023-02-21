@@ -1,12 +1,12 @@
 <?php
 
-
+// ghფგფჰგ
 $text ='hj';
 
 
 var_dump($text);
 
-var_dump(text_to_array($text));
+print_r(text_to_array($text));
 
 
 
